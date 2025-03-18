@@ -11,9 +11,11 @@
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
+    "@mdx-js/react": "^3.1.0",
     "gh-pages": "^6.3.0",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "vite-plugin-react-mdx": "^0.1.1"
   },
   "devDependencies": {
     "@eslint/js": "^9.21.0",
